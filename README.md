@@ -32,7 +32,7 @@ router rip
 ![Network Topology](rip.jpg)
 
 ## 📉 Connectivity Proof (Ping Test)
-![Ping Test Results](ping_test.png)
+![Ping Test Results](ping-test.png)
 
 ## 🎓 Skills Applied
 * **Subnetting:** Design of Class C and VLSM-compatible networks.
