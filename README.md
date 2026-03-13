@@ -28,6 +28,12 @@ router rip
  network 192.168.x.0
 ```
 
+## 🖼️ Topology Diagram
+![Network Topology](rip.jpg)
+
+## 📉 Connectivity Proof (Ping Test)
+![Ping Test Results](ping_test.png)
+
 ## 🎓 Skills Applied
 * **Subnetting:** Design of Class C and VLSM-compatible networks.
 * **Cisco IOS CLI:** Hands-on experience with router configuration modes.
