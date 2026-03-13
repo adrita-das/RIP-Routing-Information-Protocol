@@ -21,11 +21,11 @@ The primary goal of this lab was to implement dynamic routing to allow communica
 To enable RIP on the routers, the following commands were utilized:
 
 ```bash
-router rip
- version 2
- no auto-summary
- network 10.0.0.0
- network 192.168.x.0
+Router(config)# router rip
+Router(config-router)# version 2
+Router(config-router)# no auto-summary
+Router(config-router)# network 10.0.0.0
+Router(config-router)# network 192.168.x.0
 ```
 
 ## 🖼️ Topology Diagram
